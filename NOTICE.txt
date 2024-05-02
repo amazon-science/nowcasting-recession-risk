@@ -1,0 +1,2 @@
+Replication Package for Nowcasting Recession Risk, by Francesco Furno and Domenico Giannone
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved. 
