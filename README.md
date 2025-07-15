@@ -21,7 +21,7 @@ We propose a simple yet robust framework to nowcast recession risk at a monthly 
 
 To replicate the results of the paper, open `MAIN.m` and run each .m script sequentially. 
 
-You will first need to generate `Data.mat`, which can be done by running `Build_Data.m`. This will require a valid Haver token not provided by us. A Haver subscription with a valid Haver token is the simplest way to gather the required data. If you do not an Haver subscription, but do have access to the underlying data, you just need to manually create a `Data.mat` with the same structure as `Data_Template.mat` in the folder `Data`.
+You will first need to generate `Data.mat`, which can be done by running `Build_Data.m`. This will require a valid Haver API key not provided by us. A Haver subscription with a valid Haver API key is the simplest way to gather the required data. If you do not an Haver subscription, but do have access to the underlying data, you just need to manually create a `Data.mat` with the same structure as `Data_Template.mat` in the folder `Data`.
 
 Some results require additional data not available in Haver. Please follow the instructions in the replication package. 
 
@@ -38,7 +38,6 @@ Verified compatibility: MATLAB 2022, MATLAB 2023.
 The paper will appear as a chapter in **Research Methods and Applications on Macroeconomic Forecasting**, edited by Ana Galvão and Michael P. Clements.
 
 **Amazon Science Portal**: https://www.amazon.science/publications/nowcasting-recession-risk
-
 **SSRN Portal**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4706700
 
 
@@ -61,10 +60,3 @@ If you find this work useful, please consider citing as follows:
 }
 ```
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This project is licensed under the Apache-2.0 License.

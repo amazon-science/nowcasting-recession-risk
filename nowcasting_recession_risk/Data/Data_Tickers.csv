@@ -1,0 +1,24 @@
+Series_Name,Series_Start,Haver_Code,Label,Frequency,Source,Dataset
+CISS,Jan-80,V111CSS@INTDAILY,CISS,Daily,ECB,US
+NFCI,Jan-71,NFCI@SURVEYS,NFCI,Weekly,FED CHI,US
+S&P500 Composite Index,Jan-21,SP500@USECON,SP500,Monthly,S&P500,US
+Term Spread (10y-3m),Jan-62,RECSPR@USECON,TermSpread,Monthly,NY FED,US
+Near-Forward Spread,Jul-61,RECF3M@USECON,NearForward,Monthly,NY FED,US
+GZ Credit Spread,Jan-73,FGZCS@USECON,GZSpread,Monthly,FED Board,US
+Excess Bond Premium,Jan-73,FGZEBP@USECON,EBP,Monthly,FED Board,US
+PMI Manufacturing,Jan-48,NAPMC@USECON,PMI_Manuf,Monthly,ISM,US
+Unemployment Rate,Jan-48,LR@USECON,Unemp,Monthly,BLS,US
+Sahm-Rule Unemployment,Mar-49,SAHMURD@USECON,SahmRule_Unemp,Monthly,BLS,US
+Initial Claims,Jan-67,USLIC@REGIONW,Claims,Weekly,DOL,US
+Aggregate Weekly Hours,Jan-64,LIPRIVA@LABOR,Wkly_Hours,Monthly,BLS,US
+Average Weekly Hours Manufacturing,Jan-39,LRMANUA@USECON,Hours_Manuf,Monthly,BLS,US
+Housing Permits,Jan-60,HPT@USECON,HousePermits,Monthly,Census BPS,US
+Housing Starts,Jan-59,HST@USECON,HouseStarts,Monthly,Census BPS,US
+NBER Recessions,Jan-21,RECESSM2@USECON,NBER_Recession,Monthly,NBER,US
+CISS,Jan-80,V023CSS@INTDAILY,CISS,Daily,ECB,EA
+ESI (Economic Sentiment Indicator),Jan-85,E025ES@EUDATA,ESI,Monthly,EC,EA
+NBER Recessions,Jan-21,RECESSQ2@USECON,NBER_Recession,Quarterly,NBER,US Quarterly
+Real GDP,Q1-1947,GDPH@USECON,RGDP,Quarterly,BEA,US Quarterly
+SPF Anxious Current Quarter,Q4-1968,ANXIOUS0@SURVEYS,SPF_Anxious,Quarterly,SPF,US Quarterly
+CEPR Recessions,Q1-1970,N025VRM2@G10,CEPR_Recession,Quarterly,CEPR,EA Quarterly
+Real GDP,Q1-1995,J025GDPT@EUDATA,RGDP,Quarterly,EUROSTAT,EA Quarterly
