@@ -29,7 +29,7 @@ The settings for Bayesian estimation can be found in  `Subfunctions/Get_Paramete
 
 ### Compatibility
 
-Verified compatibility: MATLAB 2022, MATLAB 2023.
+Verified compatibility: MATLAB 2022, 2023, 2024.
 
 
 
@@ -37,7 +37,10 @@ Verified compatibility: MATLAB 2022, MATLAB 2023.
 
 The paper will appear as a chapter in **Research Methods and Applications on Macroeconomic Forecasting**, edited by Ana Galvão and Michael P. Clements.
 
+**Handbook Website**: https://doi.org/10.4337/9781035310050
+
 **Amazon Science Portal**: https://www.amazon.science/publications/nowcasting-recession-risk
+
 **SSRN Portal**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4706700
 
 
