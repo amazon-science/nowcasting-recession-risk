@@ -7,10 +7,22 @@
 % Note #2: Some scripts use MATLAB's parallelization via parfor loops
 % Note #3: To generate the dataset you need a valid Haver API key, or
 % manually rebuild the dataset
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Preliminaries
 clear, clc, close all;
 addpath(genpath('./Subfunctions/'));
+
+% Create Required Folders (If Needed)
+folder1 = './Output';
+if ~isfolder(folder1)
+    mkdir(folder1);
+end
+
+folder2 = './Simulations';
+if ~isfolder(folder2)
+    mkdir(folder2);
+end
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
